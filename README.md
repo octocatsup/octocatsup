@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web and game dev
 - 🌱 I’m currently learning ... see 2
 - 💞️ I’m looking to collaborate on ... open source docs
-- 📫 How to reach me ... [🔗](https://octocatsup-links.glitch.me)
+- 📫 How to reach me ... [🔗](https://octocatsup-link.glitch.me)
 
 <!---
 octocatsup/octocatsup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
