@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @octocatsup
+# 👋 Hi, I’m @octocatsup
+
 - 👀 I’m interested in ... web and game dev
 - 🌱 I’m currently learning ... see 2
 - 💞️ I’m looking to collaborate on ... open source docs
