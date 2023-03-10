@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @octocatsup
 
-- 👀 I’m interested in ... web and game dev
-- 🌱 I’m currently learning ... see 2
+- 👀 I’m interested in ... web and game dev and cybersecurity
+- 🌱 I’m currently learning ... see above
 - 💞️ I’m looking to collaborate on ... open source docs
 - 📫 How to reach me ... [🔗](https://links.octocatsup.com)
 
